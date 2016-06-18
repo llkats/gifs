@@ -27,7 +27,7 @@ glob('gifs/**/*.gif', function (err, files) {
     }
 
     lists[header].push(
-      '<li><a href="' + file + '" title="' + file + '" class="gif">' + file + '</a></li>'
+      '<li><a href="' + file + '" title="' + file + '" class="gif">' + path.basename(file, path.extname(file)) + '</a></li>'
     )
   })
 
