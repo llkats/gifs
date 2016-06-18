@@ -21,7 +21,7 @@ glob('gifs/**/*.gif', function (err, files) {
     })
 
     trimmed_path = file.replace('gifs/', '')
-    header = trimmed_path.substring(0, trimmed_path.indexOf('/'));
+    header = trimmed_path.substring(0, trimmed_path.indexOf('/')).replace('-', ' ');
     if (typeof lists[header] === 'undefined') {
       lists[header] = []
     }
