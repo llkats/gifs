@@ -1,0 +1,16 @@
+{
+  "name": "gifs",
+  "main": "build.js",
+  "dependencies": {
+    "glob": "^7.0.4",
+    "write-yaml": "^0.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "generate": "node generate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erunion/gifs.git"
+  }
+}
