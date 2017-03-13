@@ -28,6 +28,12 @@
 - path: gifs/excited/excited.gif
   modified_time: 1415038434
   extname: .gif
+- path: gifs/gdgt/jonspin.gif
+  modified_time: 1437592060
+  extname: .gif
+- path: gifs/gdgt/mike-creepin.gif
+  modified_time: 1392850008
+  extname: .gif
 - path: gifs/get-out/george-costanza-backing-away.gif
   modified_time: 1423697471
   extname: .gif
@@ -66,6 +72,12 @@
   extname: .gif
 - path: gifs/nailed-it/double-swish.gif
   modified_time: 1427149945
+  extname: .gif
+- path: gifs/nailed-it/han-solo-salute.gif
+  modified_time: 1463969100
+  extname: .gif
+- path: gifs/nailed-it/its-turbo-time.gif
+  modified_time: 1464312748
   extname: .gif
 - path: gifs/nailed-it/mic-drop-parks-and-rec.gif
   modified_time: 1414181797
@@ -123,4 +135,7 @@
   extname: .gif
 - path: gifs/whoops/ive-made-a-huge-mistake-arrested-development.gif
   modified_time: 1415059762
+  extname: .gif
+- path: gifs/wut/kid-transform.gif
+  modified_time: 1464312596
   extname: .gif
